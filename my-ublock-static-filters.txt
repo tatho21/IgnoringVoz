@@ -22,4 +22,5 @@ voz.vn##.message-inner:-abp-contains(Senator Ted Cruz)
 voz.vn##.message-inner:-abp-contains(nh0xkoyzyn9x)
 voz.vn##.message-inner:-abp-contains(straight.to.hell.)
 voz.vn##.message-inner:-abp-contains(Caunopharm)
-
+voz.vn##.message-inner:-abp-contains(chẻ_chow)
+voz.vn##.message-inner:-abp-contains(Vintrash™)
