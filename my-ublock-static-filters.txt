@@ -1,4 +1,6 @@
 voz.vn##.message-inner:-abp-contains(mrkune)
+voz.vn##.message-inner:-abp-contains(banchaolong1)
+voz.vn##.message-inner:-abp-contains(Fio)
 voz.vn##.message-inner:-abp-contains(Creampie)
 voz.vn##.message-inner:-abp-contains(Sunday Emmanuel)
 voz.vn##.message-inner:-abp-contains(thanhtu2702)
