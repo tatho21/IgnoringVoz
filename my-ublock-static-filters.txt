@@ -1,4 +1,5 @@
 voz.vn##.message-inner:-abp-contains(mrkune)
+voz.vn##.message-inner:-abp-contains(PresidentBarackObama)
 voz.vn##.message-inner:-abp-contains(nickthatdabibanned)
 voz.vn##.message-inner:-abp-contains(Godbless amerika)
 voz.vn##.message-inner:-abp-contains(mexehay)
