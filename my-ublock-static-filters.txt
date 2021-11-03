@@ -1,5 +1,7 @@
 voz.vn##.message-inner:-abp-contains(mrkune)
+voz.vn##.message-inner:-abp-contains(Silent.eagle)
 voz.vn##.message-inner:-abp-contains(bquangcaob)
+voz.vn##.message-inner:-abp-contains(mrromano)
 voz.vn##.message-inner:-abp-contains(shine228dn)
 voz.vn##.message-inner:-abp-contains(PresidentBarackObama)
 voz.vn##.message-inner:-abp-contains(nickthatdabibanned)
