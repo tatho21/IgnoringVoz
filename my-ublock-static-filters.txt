@@ -1,4 +1,5 @@
 voz.vn##.message-inner:-abp-contains(mrkune)
+voz.vn##.message-inner:-abp-contains(Doan Cai Luong SG)
 voz.vn##.message-inner:-abp-contains(v00zzz)
 voz.vn##.message-inner:-abp-contains(dkvn123)
 voz.vn##.message-inner:-abp-contains(gatroihuy_gatroihuy)
