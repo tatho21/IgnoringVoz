@@ -1,4 +1,7 @@
 voz.vn##.message-inner:-abp-contains(mrkune)
+voz.vn##.message-inner:-abp-contains(Ma Bư Mập)
+voz.vn##.message-inner:-abp-contains(Khá bẢnh.)
+voz.vn##.message-inner:-abp-contains(Mr. Bui [Soapland])
 voz.vn##.message-inner:-abp-contains(judasman)
 voz.vn##.message-inner:-abp-contains(Doan Cai Luong SG)
 voz.vn##.message-inner:-abp-contains(v00zzz)
