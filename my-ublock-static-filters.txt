@@ -1,4 +1,6 @@
 voz.vn##.message-inner:-abp-contains(mrkune)
+voz.vn##.message-inner:-abp-contains(dead_man_walking0)
+voz.vn##.message-inner:-abp-contains(trieu9)
 voz.vn##.message-inner:-abp-contains(Master Seven)
 voz.vn##.message-inner:-abp-contains(Ma Bư Mập)
 voz.vn##.message-inner:-abp-contains(Khá bẢnh.)
