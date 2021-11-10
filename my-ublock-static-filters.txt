@@ -1,4 +1,5 @@
 voz.vn##.message-inner:-abp-contains(mrkune)
+voz.vn##.message-inner:-abp-contains(Master Seven)
 voz.vn##.message-inner:-abp-contains(Ma Bư Mập)
 voz.vn##.message-inner:-abp-contains(Khá bẢnh.)
 voz.vn##.message-inner:-abp-contains(Mr. Bui [Soapland])
