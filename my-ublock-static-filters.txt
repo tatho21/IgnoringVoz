@@ -1,4 +1,6 @@
 voz.vn##.message-inner:-abp-contains(mrkune)
+voz.vn##.message-inner:-abp-contains(nguyenngocba)
+voz.vn##.message-inner:-abp-contains(lam_xung1068)
 voz.vn##.message-inner:-abp-contains(re.rak.cak.mag ver.)
 voz.vn##.message-inner:-abp-contains(dead_man_walking0)
 voz.vn##.message-inner:-abp-contains(trieu9)
