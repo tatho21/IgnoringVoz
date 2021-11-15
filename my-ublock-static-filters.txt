@@ -1,4 +1,5 @@
 voz.vn##.message-inner:-abp-contains(mrkune)
+voz.vn##.message-inner:-abp-contains(Bideno)
 voz.vn##.message-inner:-abp-contains(nguyenngocba)
 voz.vn##.message-inner:-abp-contains(lam_xung1068)
 voz.vn##.message-inner:-abp-contains(re.rak.cak.mag ver.)
