@@ -1,4 +1,7 @@
 voz.vn##.message-inner:-abp-contains(mrkune)
+voz.vn##.message-inner:-abp-contains(nhocgaqn)
+voz.vn##.message-inner:-abp-contains(DarthTyr)
+voz.vn##.message-inner:-abp-contains(zPsychoz)
 voz.vn##.message-inner:-abp-contains(CauBeDanhGiay)
 voz.vn##.message-inner:-abp-contains(Bideno)
 voz.vn##.message-inner:-abp-contains(nguyenngocba)
