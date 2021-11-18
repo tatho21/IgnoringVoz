@@ -1,4 +1,5 @@
 voz.vn##.message-inner:-abp-contains(mrkune)
+voz.vn##.message-inner:-abp-contains(Ramdeuter)
 voz.vn##.message-inner:-abp-contains(orlagu)
 voz.vn##.message-inner:-abp-contains(Vishnu)
 voz.vn##.message-inner:-abp-contains(nhocgaqn)
