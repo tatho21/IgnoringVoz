@@ -1,4 +1,8 @@
 voz.vn##.message-inner:-abp-contains(mrkune)
+voz.vn##.message-inner:-abp-contains(Chiến Binh Áo Đỏ)
+voz.vn##.message-inner:-abp-contains(..:: MTV ::.. ver 2)
+voz.vn##.message-inner:-abp-contains(2008mapdaica)
+voz.vn##.message-inner:-abp-contains(18banhxecongly)
 voz.vn##.message-inner:-abp-contains(Bac9999)
 voz.vn##.message-inner:-abp-contains(darknight1983)
 voz.vn##.message-inner:-abp-contains(Tenors3)
