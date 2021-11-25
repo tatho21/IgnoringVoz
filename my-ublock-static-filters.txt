@@ -1,4 +1,6 @@
 voz.vn##.message-inner:-abp-contains(mrkune)
+voz.vn##.message-inner:-abp-contains(Cubone King)
+voz.vn##.message-inner:-abp-contains(Unbeaten49)
 voz.vn##.message-inner:-abp-contains(Chiến Binh Áo Đỏ)
 voz.vn##.message-inner:-abp-contains(..:: MTV ::.. ver 2)
 voz.vn##.message-inner:-abp-contains(2008mapdaica)
