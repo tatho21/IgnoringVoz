@@ -1,4 +1,7 @@
 voz.vn##.message-inner:-abp-contains(mrkune)
+voz.vn##.message-inner:-abp-contains(borntosmotheruwithflowers)
+voz.vn##.message-inner:-abp-contains(buoithantai)
+voz.vn##.message-inner:-abp-contains(buylife188)
 voz.vn##.message-inner:-abp-contains(vozer_2020)
 voz.vn##.message-inner:-abp-contains(ĐM_CO NAU)
 voz.vn##.message-inner:-abp-contains(VietNam_Philippin_(*))
