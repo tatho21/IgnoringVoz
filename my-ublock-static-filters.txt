@@ -1,4 +1,6 @@
 voz.vn##.message-inner:-abp-contains(mrkune)
+voz.vn##.message-inner:-abp-contains(ĐM_CO NAU)
+voz.vn##.message-inner:-abp-contains(VietNam_Philippin_(*))
 voz.vn##.message-inner:-abp-contains(Cubone King)
 voz.vn##.message-inner:-abp-contains(Unbeaten49)
 voz.vn##.message-inner:-abp-contains(Chiến Binh Áo Đỏ)
