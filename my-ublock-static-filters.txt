@@ -1,4 +1,5 @@
 voz.vn##.message-inner:-abp-contains(mrkune)
+voz.vn##.message-inner:-abp-contains(vozer_2020)
 voz.vn##.message-inner:-abp-contains(ĐM_CO NAU)
 voz.vn##.message-inner:-abp-contains(VietNam_Philippin_(*))
 voz.vn##.message-inner:-abp-contains(Cubone King)
