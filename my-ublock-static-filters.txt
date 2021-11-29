@@ -1,4 +1,5 @@
 voz.vn##.message-inner:-abp-contains(mrkune)
+voz.vn##.message-inner:-abp-contains(jackflashjump)
 voz.vn##.message-inner:-abp-contains(Yaz125R)
 voz.vn##.message-inner:-abp-contains(dauxanh271)
 voz.vn##.message-inner:-abp-contains(borntosmotheruwithflowers)
