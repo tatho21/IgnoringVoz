@@ -1,4 +1,5 @@
 voz.vn##.message-inner:-abp-contains(mrkune)
+voz.vn##.message-inner:-abp-contains(BeatVN.)
 voz.vn##.message-inner:-abp-contains(Krazy Katz)
 voz.vn##.message-inner:-abp-contains(Pho-Vang)
 voz.vn##.message-inner:-abp-contains(vovanquoc)
