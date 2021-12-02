@@ -1,4 +1,5 @@
 voz.vn##.message-inner:-abp-contains(mrkune)
+voz.vn##.message-inner:-abp-contains(elahehamini)
 voz.vn##.message-inner:-abp-contains(obama_style)
 voz.vn##.message-inner:-abp-contains(oiralua_muarakhoi)
 voz.vn##.message-inner:-abp-contains(philong2222)
