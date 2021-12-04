@@ -1,4 +1,5 @@
 voz.vn##.message-inner:-abp-contains(mrkune)
+voz.vn##.message-inner:-abp-contains(hoainamho)
 voz.vn##.message-inner:-abp-contains(Ignatz)
 voz.vn##.message-inner:-abp-contains(Sleeper)
 voz.vn##.message-inner:-abp-contains(Candace)
