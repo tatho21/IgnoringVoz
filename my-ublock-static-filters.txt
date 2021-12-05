@@ -1,4 +1,6 @@
 voz.vn##.message-inner:-abp-contains(mrkune)
+voz.vn##.message-inner:-abp-contains(Priscilla...)
+voz.vn##.message-inner:-abp-contains(nongquedi)
 voz.vn##.message-inner:-abp-contains(20404667)
 voz.vn##.message-inner:-abp-contains(1102553)
 voz.vn##.message-inner:-abp-contains(abcccc)
