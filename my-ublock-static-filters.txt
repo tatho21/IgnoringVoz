@@ -1,4 +1,5 @@
 voz.vn##.message-inner:-abp-contains(mrkune)
+voz.vn##.message-inner:-abp-contains(Giloba)
 voz.vn##.message-inner:-abp-contains(truongdx_gt)
 voz.vn##.message-inner:-abp-contains(xvitcolunx)
 voz.vn##.message-inner:-abp-contains(xxx_zzz_000)
