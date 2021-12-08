@@ -1,4 +1,5 @@
 voz.vn##.message-inner:-abp-contains(mrkune)
+voz.vn##.message-inner:-abp-contains(Slash1000)
 voz.vn##.message-inner:-abp-contains(saynoaha)
 voz.vn##.message-inner:-abp-contains(Killer.Whale)
 voz.vn##.message-inner:-abp-contains(aus.linx)
