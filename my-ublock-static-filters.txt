@@ -1,4 +1,5 @@
 voz.vn##.message-inner:-abp-contains(mrkune)
+voz.vn##.message-inner:-abp-contains(NightStalker)
 voz.vn##.message-inner:-abp-contains(MOMO Belia Deviluke)
 voz.vn##.message-inner:-abp-contains(anhnt1711)
 voz.vn##.message-inner:-abp-contains(anhtutv09)
