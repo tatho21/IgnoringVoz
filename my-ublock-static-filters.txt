@@ -1,4 +1,5 @@
 voz.vn##.message-inner:-abp-contains(mrkune)
+voz.vn##.message-inner:-abp-contains(chvdStaff)
 voz.vn##.message-inner:-abp-contains(khotaonickvl)
 voz.vn##.message-inner:-abp-contains(Gooner_14)
 voz.vn##.message-inner:-abp-contains(God_Marvel)
