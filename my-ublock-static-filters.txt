@@ -1,4 +1,5 @@
 voz.vn##.message-inner:-abp-contains(mrkune)
+voz.vn##.message-inner:-abp-contains(Odin_kia)
 voz.vn##.message-inner:-abp-contains(bovang11)
 voz.vn##.message-inner:-abp-contains(AxleTheRed11)
 voz.vn##.message-inner:-abp-contains(davinci1207)
