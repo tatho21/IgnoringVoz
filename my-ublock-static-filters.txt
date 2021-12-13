@@ -1,4 +1,6 @@
 voz.vn##.message-inner:-abp-contains(mrkune)
+voz.vn##.message-inner:-abp-contains(xlstudio)
+voz.vn##.message-inner:-abp-contains(tonghuuhiep7)
 voz.vn##.message-inner:-abp-contains(phamduchung89)
 voz.vn##.message-inner:-abp-contains(Odin_kia)
 voz.vn##.message-inner:-abp-contains(bovang11)
